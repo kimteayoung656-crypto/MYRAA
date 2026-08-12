@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MYRAA</string>
+    <string name="listening_prompt">I AM LISTENING. SPEAK FREELY…</string>
+    <string name="idle_prompt">TAP THE MIC TO BEGIN</string>
+    <string name="core_error_title">CORE ERROR PROTOCOL</string>
+    <string name="capture_error_message">Could not capture screen: Not supported</string>
+    <string name="dismiss_code">DISMISS CODE</string>
+    <string name="mic_permission_denied">Microphone access is required for MYRAA to listen.</string>
+</resources>
