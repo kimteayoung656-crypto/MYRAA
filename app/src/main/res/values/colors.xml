@@ -1,0 +1,11 @@
+<resources>
+    <color name="myraa_bg_top">#0E1526</color>
+    <color name="myraa_bg_bottom">#1B2A44</color>
+    <color name="myraa_cyan">#4FD8E8</color>
+    <color name="myraa_text_muted">#8FA3C4</color>
+    <color name="myraa_error_bg">#3A1420</color>
+    <color name="myraa_error_border">#5C1E30</color>
+    <color name="myraa_error_accent">#FF5C7A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
